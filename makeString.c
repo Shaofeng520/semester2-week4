@@ -1,9 +1,3 @@
-
-/*
-Name:Shaofeng Cheng
-Student ID:201957368
-*/
-
 #include <stdio.h>
 #include <string.h>
 
